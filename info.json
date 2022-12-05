@@ -1,5 +1,62 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "xT3SnR1bcGo",
+            "name": "1933 Vintage - The BBC Dance Orchestra directed by Henry Hall-xT3SnR1bcGo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b4/videos/1933 Vintage - The BBC Dance Orchestra directed by Henry Hall-xT3SnR1bcGo.mp4",
+            "size": 54.346376,
+            "url": "https://github.com/circuitalmynds/music_b4/blob/main/videos/1933 Vintage - The BBC Dance Orchestra directed by Henry Hall-xT3SnR1bcGo.mp4?raw=true"
+        },
+        {
+            "id": "uW0QpjOrrv0",
+            "name": "Oscar Alem\u00e1n - Yo vi un le\u00f3n-uW0QpjOrrv0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b4/videos/Oscar Alem\u00e1n - Yo vi un le\u00f3n-uW0QpjOrrv0.mp4",
+            "size": 4.170496,
+            "url": "https://github.com/circuitalmynds/music_b4/blob/main/videos/Oscar Alem\u00e1n - Yo vi un le\u00f3n-uW0QpjOrrv0.mp4?raw=true"
+        },
+        {
+            "id": "eX8Kw1bH2m4",
+            "name": "Little Old Lady - Julie Andrews-eX8Kw1bH2m4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b4/videos/Little Old Lady - Julie Andrews-eX8Kw1bH2m4.mp4",
+            "size": 8.381,
+            "url": "https://github.com/circuitalmynds/music_b4/blob/main/videos/Little Old Lady - Julie Andrews-eX8Kw1bH2m4.mp4?raw=true"
+        },
+        {
+            "id": "5b4-rXhKpMM",
+            "name": "Maurice Ravel - Piano Concerto in G major-5b4-rXhKpMM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b4/videos/Maurice Ravel - Piano Concerto in G major-5b4-rXhKpMM.mp4",
+            "size": 28.945821,
+            "url": "https://github.com/circuitalmynds/music_b4/blob/main/videos/Maurice Ravel - Piano Concerto in G major-5b4-rXhKpMM.mp4?raw=true"
+        },
+        {
+            "id": "qts9wkixuy8",
+            "name": "Interlude - Strike Up the Band-qts9wkixuy8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b4/videos/Interlude - Strike Up the Band-qts9wkixuy8.mp4",
+            "size": 2.6756949999999997,
+            "url": "https://github.com/circuitalmynds/music_b4/blob/main/videos/Interlude - Strike Up the Band-qts9wkixuy8.mp4?raw=true"
+        },
+        {
+            "id": "GvIwkVEuz3g",
+            "name": "A Pure Evil-GvIwkVEuz3g.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b4/videos/A Pure Evil-GvIwkVEuz3g.mp4",
+            "size": 7.0462039999999995,
+            "url": "https://github.com/circuitalmynds/music_b4/blob/main/videos/A Pure Evil-GvIwkVEuz3g.mp4?raw=true"
+        },
+        {
+            "id": "iHioq0Ig2JQ",
+            "name": "Keyboard Sonata No. 36 in C Major, Hob. XVI, 21 - III. Finale - Presto-iHioq0Ig2JQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b4/videos/Keyboard Sonata No. 36 in C Major, Hob. XVI, 21 - III. Finale - Presto-iHioq0Ig2JQ.mp4",
+            "size": 3.027193,
+            "url": "https://github.com/circuitalmynds/music_b4/blob/main/videos/Keyboard Sonata No. 36 in C Major, Hob. XVI, 21 - III. Finale - Presto-iHioq0Ig2JQ.mp4?raw=true"
+        },
+        {
+            "id": "LHNB7sqzRJg",
+            "name": "Keyboard Sonata No. 10 in C Major, Hob. XVI, 1 - III. Menuet-LHNB7sqzRJg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b4/videos/Keyboard Sonata No. 10 in C Major, Hob. XVI, 1 - III. Menuet-LHNB7sqzRJg.mp4",
+            "size": 2.706558,
+            "url": "https://github.com/circuitalmynds/music_b4/blob/main/videos/Keyboard Sonata No. 10 in C Major, Hob. XVI, 1 - III. Menuet-LHNB7sqzRJg.mp4?raw=true"
+        }
+    ],
+    "total_size": 111.29934300000001
 }
